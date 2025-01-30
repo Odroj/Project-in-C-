@@ -6,7 +6,7 @@ int main(){
     printf("--------------------------------");
     printf("\nHalf Way Tree Primary Grading system\n");
     printf("--------------------------------\n");
-    for(int i=0; i<2; i++){
+    for(int i=0; i<20; i++){
         printf("\nEnter the name of student %d:", i+1);
         scanf("%s", name);
         printf("Enter %s's grades in order of Homework/Class/Test scores\n\n", name);
