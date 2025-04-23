@@ -4,11 +4,7 @@
 #include <conio.h>
 #include <time.h>
 #define MAX_NAME 50
-//Jordyn-Rhys Davis/Nathan Wilson/Joel Clarke/Jahliel Rochester/Amelia Brown
-//2405407/2350185/2407184/2401817/2304412
-//Group E
-//Mrs Sachell Linch-Mclnnis 
-
+//Jordyn-Rhys Davis
 //For Agents end the email with "nwc.ja", for customers end the email with any other domain.//
 
 //Struct for storing customer information
